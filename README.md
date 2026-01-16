@@ -15,11 +15,11 @@ End-to-end semantic book recommendation system using embeddings + vector search,
 - Gradio
 
 ## Project steps (notebooks)
-1. Data exploration: `step1_data_exploration.ipynb`
-2. Vector search: `step2_vector_search.ipynb`
-3. Text classification: `step3_text_classification.ipynb`
-4. Emotion analysis: `step4_sentiment_analysis.ipynb`
-5. Gradio dashboard: `gradio_dashboard-step5.ipynb`
+1. Data exploration: `01_data_exploration.ipynb`
+2. Vector search: `02_vector_search.ipynb`
+3. Text classification: `03_text_classification.ipynb`
+4. Emotion analysis: `04_emotion_analysis.ipynb`
+5. Gradio dashboard: `05_gradio_dashboard.ipynb`
 
 ## Results
 - Cleaned dataset from 6,810 records to 5,197 high-quality entries.
