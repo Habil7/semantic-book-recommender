@@ -8,6 +8,9 @@ End-to-end semantic book recommendation system using embeddings + vector search,
 - Supports category filtering and emotion-based sorting
 - Displays results in an interactive Gradio dashboard
 
+## Demo
+![Gradio Dashboard](dashboard.png)
+
 ## Tech used
 - Python, Pandas
 - OpenAI embeddings + ChromaDB
